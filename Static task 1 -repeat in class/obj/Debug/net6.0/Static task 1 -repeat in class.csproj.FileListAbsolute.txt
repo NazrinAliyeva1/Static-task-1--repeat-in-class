@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\bin\Debug\net6.0\Static task 1 -repeat in class.exe
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\bin\Debug\net6.0\Static task 1 -repeat in class.deps.json
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\bin\Debug\net6.0\Static task 1 -repeat in class.runtimeconfig.json
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\bin\Debug\net6.0\Static task 1 -repeat in class.dll
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\bin\Debug\net6.0\Static task 1 -repeat in class.pdb
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.AssemblyInfo.cs
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.dll
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\refint\Static task 1 -repeat in class.dll
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.pdb
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\Static task 1 -repeat in class.genruntimeconfig.cache
+C:\Users\99455\source\repos\Static task 1 -repeat in class\Static task 1 -repeat in class\obj\Debug\net6.0\ref\Static task 1 -repeat in class.dll

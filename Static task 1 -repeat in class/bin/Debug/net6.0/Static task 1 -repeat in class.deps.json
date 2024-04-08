@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Static task 1 -repeat in class/1.0.0": {
+        "runtime": {
+          "Static task 1 -repeat in class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Static task 1 -repeat in class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
